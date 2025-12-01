@@ -11,7 +11,7 @@
         <item algoitem="i EST_DU_TYPE NOMBRE" code="1#NOMBRE#i"/>
     </item>
     <item algoitem="DEBUT_ALGORITHME" code="101#debutalgo">
-        <item algoitem="i PREND_LA_VALEUR 5" code="5#i#5#pasliste"/>
+        <item algoitem="i PREND_LA_VALEUR 6" code="6#i#6#pasliste"/>
         <item algoitem="" code="103#commentaire"/>
     </item>
     <item algoitem="FIN_ALGORITHME" code="102#finalgo"/>
