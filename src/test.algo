@@ -12,7 +12,7 @@
     </item>
     <item algoitem="DEBUT_ALGORITHME" code="101#debutalgo">
 
-        <item algoitem="i PREND_LA_VALEUR 100" code="8#i#8#pasliste"/>
+        <item algoitem="i PREND_LA_VALEUR 999" code="8#i#8#pasliste"/>
 
       
         <item algoitem="" code="103#commentaire"/>
